@@ -13,6 +13,10 @@ The disproportionate risk of roadway fatalities on rural roads, where 43% of all
 <p align="center">
     <img src="contents/rural_stats.png" width="700"/>
 </p>
+Nighttime vehicle detection is crucial for various transportation safety and automation systems. At night, reduced visibility due to low lighting conditions significantly increases the risk of traffic accidents. Detecting vehicles accurately during nighttime plays a key role in improving road safety, managing traffic, and enhancing the effectiveness of intelligent transportation systems (ITS).
+Rural roads often lack the infrastructure and safety features found in cities, leading to higher accident rates, particularly at night.
+Deploying deep learning models for nighttime vehicle detection offers significant advantages compared to traditional methods. Deep learning, particularly using convolutional neural networks (CNNs) and other advanced architectures, can effectively handle the challenges of low-light conditions, environmental variability, and complex data interpretation. 
+
 
 ### Current bottlenecks and challenges:
 * **Low Illumination and Contrast**: Nighttime environments suffer from poor lighting conditions, making it difficult for deep learning models to distinguish between vehicles and the background. Low illumination also reduces the overall image contrast, making it challenging for models to detect vehicle boundaries accurately.
@@ -27,13 +31,14 @@ The disproportionate risk of roadway fatalities on rural roads, where 43% of all
 </p>
 
 <p align="center">
-  <img src="contents/night_sample_2.gif" width="600"/><br/>
+  <img src="contents/night_sample_2_v2.gif" width="600"/><br/>
 <em>Nighttime Video from the Roadside Traffic Camera in South Carolina Highway</em>
 </p>
 
 
-
-
+### AI Empowered Augmentation Methods - Generative Adversarial Network (GAN):
+The **generator** learns to generate plausible data. The generated instances become negative training examples for the discriminator.
+The **discriminator** learns to distinguish the generator's fake data from real data. The discriminator penalizes the generator for producing implausible results 
 
 
 
