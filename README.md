@@ -73,7 +73,7 @@ While **CycleGAN** (specialized for unpaired image-to-image translation.) is int
 
 
 
-
+### 🤗 Code Implementation: Let's run the state-of-art object detection model together!
 
 <p align="center">
   <img src="contents/ca_sample_yolo12.gif" width="600"/><br/>
