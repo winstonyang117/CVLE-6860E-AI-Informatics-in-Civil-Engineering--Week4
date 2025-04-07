@@ -11,7 +11,7 @@
 ## Week 4: Nighttime Vechicle Detection and Classification
 The disproportionate risk of roadway fatalities on rural roads, where **43%** of all roadway fatalities occur despite only **19%** of the US population living in these areas, underscores a critical and worsening challenge in transportation safety. This is largely due to unique challenges associated with rural roads (e.g., varying roadway geometrics, frequent animal crossings, reduced cell phone and communication coverage). 
 <p align="center">
-    <img src="contents/rural_stats.png" width="700"/>
+    <img src="contents/rural_stats.png" width="900"/>
 </p>
 Nighttime vehicle detection is crucial for various transportation safety and automation systems. At night, reduced visibility due to low lighting conditions significantly increases the risk of traffic accidents. Detecting vehicles accurately during nighttime plays a key role in improving road safety, managing traffic, and enhancing the effectiveness of intelligent transportation systems (ITS).
 Rural roads often lack the infrastructure and safety features found in cities, leading to higher accident rates, particularly at night.
