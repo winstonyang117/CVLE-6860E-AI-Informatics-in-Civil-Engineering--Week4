@@ -15,3 +15,8 @@ The disproportionate risk of roadway fatalities on rural roads, where 43% of all
 </p>
 
 #### Current bottlenecks and challenges:
+<p align="center">
+  <video width="600" controls>
+    <source src="contents/ca_sample_yolo12.mp4" type="video/mp4">
+  </video>
+</p>
