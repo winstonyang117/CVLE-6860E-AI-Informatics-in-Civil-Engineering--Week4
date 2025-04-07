@@ -20,3 +20,5 @@ The disproportionate risk of roadway fatalities on rural roads, where 43% of all
     <source src="contents/ca_sample_yolo12.mp4" type="video/mp4">
   </video>
 </p>
+
+![Demo](contents/ca_sample_yolo12.gif)
