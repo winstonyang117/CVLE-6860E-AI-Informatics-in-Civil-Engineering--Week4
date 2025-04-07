@@ -56,7 +56,16 @@ While **CycleGAN** (specialized for unpaired image-to-image translation.) is int
 
 
 
+### Augmentation From Virtual - CARLA
+* In order to address the resolution issue and find out the best angle for monitoring, we finished setting up CARLA to simulate and generate the high quality data we need. 
+* CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static and dynamic actors, maps generation and much more.
+* We turned off all the street lights and turned on the headlights (high beams)/taillights to best mimic the pure rural setting.
+* We can record the video anytime we want and set the camera position anywhere we like. 
 
+<p align="center">
+  <img src="contents/ca_sample_yolo12.gif" width="600"/><br/>
+<em>Daytime Detection and Classification via Raw YOLO12 Model</em>
+</p>
 
 
 
