@@ -63,8 +63,8 @@ While **CycleGAN** (specialized for unpaired image-to-image translation.) is int
 * We can record the video anytime we want and set the camera position anywhere we like. 
 
 <p align="center">
-  <img src="contents/ca_sample_yolo12.gif" width="600"/><br/>
-<em>Daytime Detection and Classification via Raw YOLO12 Model</em>
+  <img src="contents/carla_v3.gif" width="600"/><br/>
+<em>Simulated Rural Highway Environment via CARLA</em>
 </p>
 
 
